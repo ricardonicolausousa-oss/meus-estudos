@@ -1,0 +1,84 @@
+EXEMPLO DE BREAK 
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    int numero;
+    while(1){
+        printf("Bem vindo ao caixa eletronico! Digite um dos seguintes valores para prosseguir.\n1 = Ver Saldo\n2 = Sacar\n0 = Sair\n");
+        scanf("%d", &numero);
+        if (numero == 1){
+            printf("Seu saldo: mil gazilhoes voce e muito rico uau\n");
+        }
+        if (numero == 2){
+            printf("Voce acabou de sacar seus mil gazilhoes meus parabens\n");
+        }
+        if (numero == 0){
+            printf("Sistema Encerrado");
+            break;
+        }
+    }
+}
+
+EXERCICIO 1
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    // Desenvolva um programa que imprima todos os números inteiros de 1 até 100 em ordem crescente utilizando um laço 'for'
+    for (int i = 1; i <= 100; i++){
+        printf("%d\n", i);
+    }
+}
+
+EXERCICIO 2
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void){
+    // Crie um algoritmo que utilize um laço 'while' para exibir todos os números pares situados no intervalo de 1 a 50.
+
+    int i = 1;
+    while (i <= 50){
+        if (i % 2 == 0) {
+            printf("Numero par: %d\n", i);
+            i++;
+        }
+        i++;
+        continue;
+    }
+}
+
+EXERCICIO 3
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    //Faça um programa que execute uma contagem regressiva de 10 até 0 usando 'do-while', imprimindo ao final a mensagem 'Fim da contagem!'.
+    int n = 10;
+    do {
+        printf("%d\n", n);
+        n--;
+    } while (n >= 0);
+    printf("Fim da contagem!");
+}
+
+EXERCICIO 4
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    //Escreva um programa que leia um número inteiro positivo e apresente a sua tabuada completa de multiplicação de 1 a 10.
+
+    int n, i, resultado;
+    printf("Digite um numero inteiro positivo: ");
+    scanf("%d", &n);
+    for (i = 1; i <= 10; i++){
+        resultado = (n * i);
+        printf("%d * %d = %d\n", n, i, resultado);
+    }
+}

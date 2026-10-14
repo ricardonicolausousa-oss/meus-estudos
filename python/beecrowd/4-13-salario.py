@@ -1,0 +1,5 @@
+NUMBER = int(input())
+WORKED_HOURS = int(input())
+SALARY_HOUR = float(input())
+SALARY_MONTH = (SALARY_HOUR * WORKED_HOURS)
+print(f"NUMBER = {NUMBER}\nSALARY = U$ {SALARY_MONTH:.2f}")

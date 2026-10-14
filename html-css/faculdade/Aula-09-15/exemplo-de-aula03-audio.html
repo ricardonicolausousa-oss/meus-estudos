@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width: device-width, initial-scale: 1.0">
+        <title>Áudio da Internet</title>
+    </head>
+    <body>
+        <h1>Áudio em HTML</h1>
+        <p>Clique no botão de reprodução para ouvir o áudio.</p>
+        <audio id='meuAudio' width='150px' controls loop>
+            <source
+                src="/midia/cano-caindo.mp3"
+                type="audio/mp3"
+            >
+            Seu navegador não possui suporte para a reprodução deste áudio.
+        </audio>
+        <script>
+            const audio = document.getElementById('meuAudio');
+            audio.volume = 0.5;
+        </script>
+    </body>
+</html>
