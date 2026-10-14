@@ -1,0 +1,5 @@
+print('Este programa mostra quanto um cliente pagou e mostra, no fim, quanto terá que pagar com os 10 porcento a mais do garçom.')
+valor_gasto = input('Digite o valor gasto pelo cliente: ')
+valor_gasto = float(valor_gasto)
+valor_total = (valor_gasto + (valor_gasto * 0.1))
+print(f'Este é o valor pago pelo cliente: {valor_gasto} \nEste é o valor total que ele terá que pagar: {valor_total}')

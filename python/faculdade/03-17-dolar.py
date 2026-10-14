@@ -1,0 +1,5 @@
+print('Este programa mostra o valor do dólar em real. Siga os passos abaixo: ')
+dolar = input('Digite a valor em dólares que você quer fazer a conversão: ')
+dolar = float(dolar)
+real = (dolar * 5.2)
+print(f'O valor em reais é: {real:.2f}')

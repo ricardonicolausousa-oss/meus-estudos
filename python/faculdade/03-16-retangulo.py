@@ -1,0 +1,8 @@
+print('Bem vindo ao programa de cálculo de área e perímetro de um retângulo de sua escolha, siga as intruções abaixo:')
+lado = input('Digite o lado do retângulo: ')
+base = input('Digite a base do retângulo: ')
+lado = int(lado)
+base = int(base)
+perimetro = (lado * 4)
+area = (lado * base)
+print(f'O perímetro do retângulo é: {perimetro} \nA área do retângulo é: {area}' )

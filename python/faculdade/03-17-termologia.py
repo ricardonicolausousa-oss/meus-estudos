@@ -1,0 +1,6 @@
+print('Este programa é um conversor de Celsius para Fahrenheit e Kelvin, simultaneamente.')
+celsius = input('Digite a temperatura em Celsius: ')
+celsius = float(celsius)
+fahrenheit = ((1.8 * celsius) + 32)
+kelvin = (celsius + 273)
+print(f'Esta é a temperatura em celsius que você digitou: {celsius}°C \nEm Fahrenheit: {fahrenheit}°F \nEm Kelvin: {kelvin}K')

@@ -1,0 +1,6 @@
+print('Olá, este é um programa onde você pode digitar o seu salário e checar quanto ficaria com a porcentagem a mais de comissão, siga as intruções abaixo:')
+salario = input('Digite seu salário: ')
+salario = float(salario)
+comissao = (salario*0.05)
+salario_novo = (salario + comissao)
+print(f'Parabéns, seu novo salário é com a comissão de 5% adicionada é: {salario_novo}')
