@@ -1,0 +1,13 @@
+C:\rick\atividades\atividades\bin\Debug\atividades.exe.config
+C:\rick\atividades\atividades\bin\Debug\atividades.exe
+C:\rick\atividades\atividades\bin\Debug\atividades.pdb
+C:\rick\atividades\atividades\bin\Debug\atividades.xml
+C:\rick\atividades\atividades\obj\Debug\atividades.vbproj.AssemblyReference.cache
+C:\rick\atividades\atividades\obj\Debug\atividades.soma_de_valores.resources
+C:\rick\atividades\atividades\obj\Debug\atividades.Resources.resources
+C:\rick\atividades\atividades\obj\Debug\atividades.vbproj.GenerateResource.cache
+C:\rick\atividades\atividades\obj\Debug\atividades.vbproj.CoreCompileInputs.cache
+C:\rick\atividades\atividades\obj\Debug\atividades.exe
+C:\rick\atividades\atividades\obj\Debug\atividades.xml
+C:\rick\atividades\atividades\obj\Debug\atividades.pdb
+C:\rick\atividades\atividades\obj\Debug\atividades.area_perimetro_quadrado.resources

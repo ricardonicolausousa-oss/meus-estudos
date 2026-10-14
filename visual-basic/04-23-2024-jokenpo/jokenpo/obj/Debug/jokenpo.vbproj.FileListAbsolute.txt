@@ -1,0 +1,12 @@
+C:\rick\jokenpo\jokenpo\bin\Debug\jokenpo.exe.config
+C:\rick\jokenpo\jokenpo\bin\Debug\jokenpo.exe
+C:\rick\jokenpo\jokenpo\bin\Debug\jokenpo.pdb
+C:\rick\jokenpo\jokenpo\bin\Debug\jokenpo.xml
+C:\rick\jokenpo\jokenpo\obj\Debug\jokenpo.vbproj.AssemblyReference.cache
+C:\rick\jokenpo\jokenpo\obj\Debug\jokenpo.Form1.resources
+C:\rick\jokenpo\jokenpo\obj\Debug\jokenpo.Resources.resources
+C:\rick\jokenpo\jokenpo\obj\Debug\jokenpo.vbproj.GenerateResource.cache
+C:\rick\jokenpo\jokenpo\obj\Debug\jokenpo.vbproj.CoreCompileInputs.cache
+C:\rick\jokenpo\jokenpo\obj\Debug\jokenpo.exe
+C:\rick\jokenpo\jokenpo\obj\Debug\jokenpo.xml
+C:\rick\jokenpo\jokenpo\obj\Debug\jokenpo.pdb
